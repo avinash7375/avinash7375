@@ -6,6 +6,13 @@ This is where u know me
  <img src = https://source.unsplash.com/1600x900/?developer >
  
 <h2> 
-I am a webdeveloper, With a basic Idea of JS 
+Things i know
   </h2>
+  <p><h4>
+    python
+    c
+    Don't ask me Java
+    JavaScript
+    In a learning stage of Rust
+  </h4></p>
   
