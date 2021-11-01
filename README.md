@@ -9,10 +9,10 @@ This is where u know me
 Things i know
   </h2>
   <p><h4>
-    python
-    c
-    Don't ask me Java
-    JavaScript
-    In a learning stage of Rust
+    python<br>
+    c<br>
+    Don't ask me Java<br>
+    JavaScript<br>
+    In a learning stage of Rust<br>
   </h4></p>
   
