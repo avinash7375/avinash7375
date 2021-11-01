@@ -3,7 +3,7 @@
 <h1>
 I am a CS Enthusiast
   </h1>
- <img src = https://source.unsplash.com/1200x600/?cs-enthusiast >
+ <img src = https://source.unsplash.com/1200x400/?web-development >
  
 
 <p>
