@@ -5,7 +5,7 @@ I am a CS Enthusiast
   </h1>
  <img src = https://source.unsplash.com/1200x400/?web-development >
  
- ![alt text](http://url/to/https://cdn-icons.flaticon.com/png/512/1078/premium/1078454.png?token=exp=1635773559~hmac=1bacd855d134fe307930184bd5192a87)
+ ![alt text](http://url/to/![image](https://user-images.githubusercontent.com/53809765/139677897-02dca8a1-173a-4400-982f-4cb38fa709bf.png))
 
 <p>
 Ask Me Questions about
