@@ -11,7 +11,6 @@ Ask Me Questions about
 <h4>
     python<br>
     c<br>
-    
     JavaScript<br>
     In a learning stage of Rust<br>
     Don't ask me Java<br>
