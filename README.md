@@ -13,6 +13,6 @@ Ask Me Questions about
     c<br>
     JavaScript<br>
     In a learning stage of Rust<br>
-    Don't ask me Java<br>
+    
   </h4></p>
   
