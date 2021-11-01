@@ -7,14 +7,13 @@ I am a CS Enthusiast
  
 
 <p>
-<h2> 
-Things i know
-  </h2>
+Ask Me Questions about
 <h4>
     python<br>
     c<br>
-    Don't ask me Java<br>
+    
     JavaScript<br>
     In a learning stage of Rust<br>
+    Don't ask me Java<br>
   </h4></p>
   
