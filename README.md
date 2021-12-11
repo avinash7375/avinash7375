@@ -7,7 +7,7 @@
 </h1>
 <p>I am an IT Enthusiast</p>
 
-<img src = https://source.unsplash.com/1200x400/?web-development >
+<img src = https://source.unsplash.com/1200x400/?coding >
 
 
 <p>
