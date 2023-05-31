@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=avinash7375.avinash7375&color=00df00)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=avinash7375.avinash7375&color=00df00) -->
 ![Visitor Count](https://profile-counter.glitch.me/{avinash7375}/count.svg)
 <h1>
   About Me
