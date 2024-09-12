@@ -5,7 +5,7 @@
 <h1>
   About Me
 </h1>
-<p>I am an IT Enthusiast</p>
+<p>I am an Programming Researcher</p>
 
 <img src = https://source.unsplash.com/1200x400/?coding >
 
