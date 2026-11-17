@@ -12,13 +12,3 @@
 <b>Ask Me Questions about</b>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash7375&layout=compact)](https://github.com/avinash7375/avinash7375)
- </p>
-  
-
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash7375)](https://github.com/avinash7375/avinash7375)
-
-
